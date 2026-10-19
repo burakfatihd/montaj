@@ -1,0 +1,6 @@
+# Third-party clone (has its own git repo, 2.6 GB)
+OpenMontage/
+
+node_modules
+preptest-reels/out/
+.DS_Store

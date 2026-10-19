@@ -1,0 +1,8 @@
+{
+  "name": "preptest-reels",
+  "private": true,
+  "scripts": {
+    "studio": "npx remotion studio src/index.ts",
+    "render": "npx remotion render src/index.ts CentsReel out/cents-video-dersler-reels.mp4"
+  }
+}
